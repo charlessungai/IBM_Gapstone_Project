@@ -2,4 +2,4 @@
 # charlessungai
 # Editing the file
 
-Itsba markdown file in this repository
+Its a markdown file in this repository
